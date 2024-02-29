@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to spejdere der klager over at rygsækken er tung","Watching et meget lokalt skybrud over spejdernes bål","Watching en bæver/mikro der prøver at rulle sit tørklæde","Playing kimsleg","Listening to Morgendak kl. 05.30 på fuld knald"];
+const statusMessages = [" "," "," "," "," "];
 
 
 let currentIndex = 0;
